@@ -7,7 +7,7 @@ import streamlit as st # type: ignore
 from dotenv import load_dotenv # type: ignore
 load_dotenv()
 
-os.environ["GOOGLE_API_KEY"] =os.getenv("GOOGLE_API_KEY")
+os.environ["GOOGLE_API_KEY"] ="AIzaSyB2ARWNpH5cZhGu8hkJE0RWPxGYTP3bYY4"
 os.environ["LANGCHAIN_TRACING_V2"] ="true"
 os.environ["LANGCHAIN_API_KEY"] =os.getenv("LANGCHAIN_API_KEY")
 
