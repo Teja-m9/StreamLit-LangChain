@@ -15,10 +15,10 @@ It answers questions about the LangChain framework using Gemini 1.5 Flash — Go
 
 ---
 
-## 📷 Live App
+## Live App
 
-![Chatbot](https://good24.streamlit.app/)
-<sub>Replace the image above with your own screenshot!</sub>
+[Chatbot](https://good24.streamlit.app/)
+<sub>The Chatbot is live now!!!</sub>
 
 ---
 
