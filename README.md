@@ -15,9 +15,9 @@ It answers questions about the LangChain framework using Gemini 1.5 Flash — Go
 
 ---
 
-## 📷 Demo Screenshot
+## 📷 Live App
 
-![Chatbot UI](https://via.placeholder.com/900x500.png?text=LangChain+Gemini+Chatbot+UI)
+![Chatbot](https://good24.streamlit.app/)
 <sub>Replace the image above with your own screenshot!</sub>
 
 ---
