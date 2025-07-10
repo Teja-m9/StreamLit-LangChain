@@ -9,7 +9,7 @@ load_dotenv()
 
 os.environ["GOOGLE_API_KEY"] ="AIzaSyB2ARWNpH5cZhGu8hkJE0RWPxGYTP3bYY4"
 os.environ["LANGCHAIN_TRACING_V2"] ="true"
-os.environ["LANGCHAIN_API_KEY"] =os.getenv("LANGCHAIN_API_KEY")
+os.environ["LANGCHAIN_API_KEY"] ="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"
 
 prompt=ChatPromptTemplate.from_messages(
     [
